@@ -147,6 +147,7 @@ public class MainActivity extends AppCompatActivity
             else
             {
                 uri = null;
+                //imageButton.setImageURI(null);
             }
         }
     }

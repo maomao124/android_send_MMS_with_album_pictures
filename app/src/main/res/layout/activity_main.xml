@@ -47,7 +47,8 @@
         <ImageButton
                 android:id="@+id/ImageButton"
                 android:layout_width="200dp"
-                android:layout_height="200dp" />
+                android:scaleType="fitCenter"
+                android:layout_height="150dp" />
 
     </LinearLayout>
 
